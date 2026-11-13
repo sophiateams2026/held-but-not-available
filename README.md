@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34807279/README.md)
 # Held but Not Available: replication code
 
 Code for the manuscript *Held but Not Available: Optimal Protection Levels in a Cross-Border Two-Warehouse Inventory System*.
